@@ -1,0 +1,15 @@
+.custom-navbar {
+  position: fixed;
+  background-color: #cccbcb;
+  top: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 450px; /* Default width for small screens */
+  z-index: 1000;
+}
+
+/* @media (min-width: 576px) {
+  .custom-navbar {
+    width: 50%;
+  }
+} */
